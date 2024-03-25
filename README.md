@@ -1,4 +1,4 @@
-# GAP---Progetto-DataBase
+# GAP-Progetto-DataBase
 # Readme - Applicazione Web
 
 Di seguito viene rilasciato il link dell'applicazione web, poiché il sito web è stato sviluppato utilizzando PHP ed è necessario eseguirlo tramite un server Web.
