@@ -1,0 +1,49 @@
+#titolo{
+	background-color: lightgray;
+	font-size: 170%;
+}
+
+
+th.inizio{
+	padding-right: 40px;
+	padding-bottom: 1px;
+	/*padding-top: 1px;*/
+}
+
+th.corti{
+	padding-right: 150px;
+}
+
+table{
+	padding-bottom: 30px;
+}
+
+tr{
+	padding-bottom: 30px;
+}
+
+button{
+	border: 1px solid black;
+	border-radius: 10px;
+	text-align: center;
+	background-color: lightblue;
+	height: 40px;
+}
+
+#bottoni_sotto button{
+	position: fixed;
+    bottom: 400px;
+}
+
+select.menu_a_tendina{
+	width: 12%;
+}
+
+input.lontani{
+	padding-right: 100px;
+	margin-right: 1px;
+	
+}
+
+
+

@@ -1,0 +1,17 @@
+#titolo{
+	background-color: lightgray;
+	font-size: 170%;
+}
+
+
+button{
+	border: 1px solid black;
+	border-radius: 10px;
+	text-align: center;
+	background-color: lightblue;
+	height: 40px;
+}
+
+select.menu_a_tendina{
+	width: 12%;
+}

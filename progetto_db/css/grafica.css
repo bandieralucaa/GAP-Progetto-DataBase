@@ -1,0 +1,43 @@
+#Titolo{
+	background-color: lightgray;
+	text-align: center;
+	color: red;
+	font-size: 250%;
+}
+
+#selezioni{
+	background-color: lightgreen;
+}
+
+/*la tabella sta al centro della pagina*/
+#selezioni table{
+	margin:auto;
+}
+/*le caselle della tabella stanno distanti*/
+#selezioni table th{
+	padding: 2%;
+}
+/*ogni bottone ha queste caratteristiche*/
+#selezioni button.bottoni{
+	padding: 30px;
+	margin: 35px;
+	margin-rigth: 30px;
+	border: 1px solid black;
+	border-radius: 10px;
+	text-align:center;
+	content: 400%;
+	width:200px;
+	height:130px;
+	background-color:lightblue;
+}
+
+/*i link che stanno dentro i button*/
+#selezioni a.collegamenti{
+	color: black;
+	font-size: 140%;
+	content-width:300%;
+	
+	text-decoration: none;
+}
+
+
